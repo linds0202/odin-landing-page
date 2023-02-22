@@ -150,3 +150,40 @@ h2 {
     font-weight: 900;
     text-align: right;
 }
+
+/* Signup Section */
+
+.signup {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-container {
+    width: 70%;
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: #E5E7EB;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.signup-text {
+    width: 400px;
+}
+
+.signup-text h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.signup-container button {
+    font-size: 18px;
+    padding: 10px 36px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
+}
