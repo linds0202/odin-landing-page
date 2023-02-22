@@ -50,7 +50,7 @@ header a {
 
 .hero-container {
     background-color: #1F2937;
-    padding: 75px;
+    padding: 100px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -92,6 +92,7 @@ h1 {
 
 .card {
     margin: 40px 0;
+    padding: 0 50px;
 }
 
 h2 {
@@ -186,4 +187,12 @@ h2 {
     color: #E5E7EB;
     border: 1px solid #E5E7EB;
     border-radius: 10px;
+}
+
+/* Footer Section */
+
+footer {
+    text-align: center;
+    background-color: #1F2937;
+    padding: 30px;
 }
